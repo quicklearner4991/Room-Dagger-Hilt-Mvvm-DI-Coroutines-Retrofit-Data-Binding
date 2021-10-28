@@ -70,8 +70,7 @@ class ExpenseListActivity : AppCompatActivity(), AlertsAdapter.OnItemClickListen
 
     private fun callApi() {
         val mHashMap = HashMap<String, Any>()
-        mHashMap["marine_id"] = "0"
-        mHashMap["alert_module_type"] = "VesselsOperations"
+        mHashMap["request_param"] = "Value"
         mHashMap["page"] = "1"
         mainViewModel.getExpenseListItem(mHashMap)
         lifecycleScope.launchWhenStarted {
