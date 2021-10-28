@@ -28,6 +28,8 @@ If App is launched :- It will check if there is any data saved in database if ye
 
 Swipe to delete functionality :- It will delete data locally and observer will be called to check if there is any data left if not API will be called to fetch data again
 
+![alt text](https://github.com/quicklearner4991/Room-Dagger-Hilt-Mvvm-DI-Coroutines-Retrofit-Data-Binding/blob/main/Room.png)
+
 
 Video Demo Link:
 
