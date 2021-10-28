@@ -29,3 +29,6 @@ If App is launched :- It will check if there is any data saved in database if ye
 Swipe to delete functionality :- It will delete data locally and observer will be called to check if there is any data left if not API will be called to fetch data again
 
 
+Video Demo Link:
+
+https://youtu.be/iIVKw0b7bs0
