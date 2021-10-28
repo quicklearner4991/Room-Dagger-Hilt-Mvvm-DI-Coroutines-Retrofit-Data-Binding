@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TravelBank</string>
+    <string name="total">Total</string>
+    <string name="des">Description (Optional)</string>
+    <string name="row_title">Title</string>
+    <string name="row_date">Date</string>
+    <string name="row_meals">Meals</string>
+    <string name="row_currency">Currency</string>
+    <string name="row_sample_date">July 13</string>
+    <string name="_expense_detail">Category</string>
+    <string name="description_hint">Description (Optional)</string>
+    <string name="user_profile">user_Profile</string>
+    <string name="bill_reciept">bill_reciept</string>
+</resources>
